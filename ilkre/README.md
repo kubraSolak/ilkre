@@ -1,4 +1,5 @@
 #İlkre
 
 Git & Github kursu oluşturduğumuz ilk repository.
-- Deneme yapıyorum
+
+git github kursu 2. kısım
